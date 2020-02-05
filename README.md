@@ -18,7 +18,7 @@ if err != nil {
 defer pubsubmock.Close()
 ```
 
-For more details, see [psmock.go](psmock.go), open an issue or refer to the [pstest godoc](https://godoc.org/cloud.google.com/go/pubsub/pstest). 
+For a more detailed example, see [psmock_test.go](psmock_test.go), open an issue or refer to the [pstest godoc](https://godoc.org/cloud.google.com/go/pubsub/pstest). 
 
 
 
